@@ -1,0 +1,23 @@
+{
+  "name": "flexbox-profile-site",
+  "version": "1.0.0",
+  "description": "building a profile site utilizing flexbox for the layout <link rel=\"html\" href=\"index.html\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickriley5/flexbox-profile-site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickriley5/flexbox-profile-site/issues"
+  },
+  "homepage": "https://github.com/nickriley5/flexbox-profile-site#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0"
+  }
+}
