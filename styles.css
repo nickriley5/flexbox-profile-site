@@ -95,7 +95,7 @@ body {
     animation: gradient 15s ease infinite;
     display: flex;
     flex-wrap: wrap;
-    flex-direction: column;
+    flex-direction: row;
     align-content: center;
     justify-content: space-between;
 }
