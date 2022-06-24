@@ -23,7 +23,7 @@ body {
 }
 
 @media only screen 
-  and (min-device-width: 355px) 
+  and (min-device-width: 345px) 
   and (max-device-width: 812px){
 body {
     background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
@@ -31,7 +31,7 @@ body {
     animation: gradient 15s ease infinite;
     display: flex;
     flex-wrap: wrap;
-    flex-direction: column;
+    flex-direction: row;
     align-content: center;
     justify-content: space-between;
 }
@@ -71,7 +71,7 @@ body {
     display: flex;
     background-image: url("nickonback.jpg");
     background-size: contain;
-    min-width: 350px;
+    min-width: 340px;
     height: 350px;
     overflow: scroll;
 }
